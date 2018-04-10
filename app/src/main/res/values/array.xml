@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="assignment_reminder_spinner_entries">
+        <item>@string/the_day_before</item>
+        <item>@string/two_days_before</item>
+        <item>@string/a_week_before</item>
+        <item>@string/custom...</item>
+    </string-array>
+</resources>
